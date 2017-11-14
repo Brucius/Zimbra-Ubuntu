@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Deploy a Zimbra Collaboration Server Network Edition on Ubuntu.",
+  "description": "This template uses the Azure Linux CustomScript extension to deploy a Zimbra Collaboration Server on Ubuntu. It creates an Ubuntu VM, does a silent install of Zimbra Collaboration Server ZCS Network Edition 8.7.11.",
+  "summary": "Deploy a Zimbra Collaboration Server Network Edition on Ubuntu.",
+  "githubUsername": "Brucius",
+  "dateUpdated": "<e.g. 2017-11-14>"
+}
