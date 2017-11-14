@@ -190,7 +190,7 @@
           ]
         },
         "protectedSettings": {
-          "commandToExecute": "[concat('sh 2_inst_zcs.sh']"
+          "commandToExecute": "[concat('sh 2_inst_zcs.sh')]"
         }
       }
     }
