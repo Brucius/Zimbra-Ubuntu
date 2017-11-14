@@ -5,4 +5,4 @@
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
-This template uses the Azure Linux CustomScript extension to deploy a Zimbra Collaboration Server on Ubuntu. It creates an Ubuntu VM, does a silent install of zimbra.
+This template uses the Azure Linux CustomScript extension to deploy a Zimbra Collaboration Server on Ubuntu. It creates an Ubuntu VM, does a silent install of Zimbra Collaboration Server ZCS Network Edition 8.7.11.
