@@ -186,11 +186,11 @@
         "autoUpgradeMinorVersion": true,
         "settings": {
           "fileUris": [
-            "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/lamp-app/install_lamp.sh"
+            "https://raw.githubusercontent.com/Brucius/ZimbraOnAzure/master/scripts/2_inst_zcs.sh"
           ]
         },
         "protectedSettings": {
-          "commandToExecute": "[concat('sh install_lamp.sh']"
+          "commandToExecute": "[concat('sh 2_inst_zcs.sh']"
         }
       }
     }
